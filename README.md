@@ -2,10 +2,10 @@
 
 Iris Flower Data Set Machine Learning Problem
 
-Wikipedia Page
+Wikipedia Page:
 https://en.wikipedia.org/wiki/Iris_flower_data_set
 
-K-Nearest Neighbors Algorithm
+K-Nearest Neighbors Algorithm:
 https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm
 
 Iris plants dataset
